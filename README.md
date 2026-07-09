@@ -1,5 +1,7 @@
 # squishlings — merge & collection game
 
+https://squishlings-one.vercel.app/
+
 **The game loop**: the hatch meter 🥚 fills slowly on its own — clicking it
 (or tapping the ground) adds a quarter with a juicy bounce, so four taps
 hatch a small squishling. Throw two of **similar size** into each other and they
